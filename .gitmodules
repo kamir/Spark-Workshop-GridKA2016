@@ -1,0 +1,9 @@
+[submodule "terra-fit"]
+	path = terra-fit
+	url = https://github.com/kamir/terra-fit
+[submodule "spark-timeseries"]
+	path = spark-timeseries
+	url = https://github.com/kamir/spark-timeseries
+[submodule "da_graph_frames_lab02"]
+	path = da_graph_frames_lab02
+	url = https://github.com/kamir/da_graph_frames_lab02
