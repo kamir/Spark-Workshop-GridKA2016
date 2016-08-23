@@ -1,3 +1,3 @@
 # Spark-Workshop-GridKA2016
 
-- modules: 3
+- modules: 2
